@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.Exceptions\bin\Debug\JobPortalSystem.Exceptions.dll
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.Exceptions\bin\Debug\JobPortalSystem.Exceptions.pdb
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.Exceptions\obj\Debug\JobPortalSystem.Exceptions.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.Exceptions\obj\Debug\JobPortalSystem.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.Exceptions\obj\Debug\JobPortalSystem.Exceptions.dll
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.Exceptions\obj\Debug\JobPortalSystem.Exceptions.pdb

@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.DataAccessLayer\bin\Debug\JobPortalSystem.DataAccessLayer.dll
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.DataAccessLayer\bin\Debug\JobPortalSystem.DataAccessLayer.pdb
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.DataAccessLayer\bin\Debug\JobPortalSystem.Entities.dll
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.DataAccessLayer\bin\Debug\JobPortalSystem.Exceptions.dll
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.DataAccessLayer\bin\Debug\JobPortalSystem.Entities.pdb
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.DataAccessLayer\bin\Debug\JobPortalSystem.Exceptions.pdb
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.DataAccessLayer\obj\Debug\JobPortalSystem.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.DataAccessLayer\obj\Debug\JobPortalSystem.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.DataAccessLayer\obj\Debug\JobPortalSystem.DataAccessLayer.csproj.CopyComplete
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.DataAccessLayer\obj\Debug\JobPortalSystem.DataAccessLayer.dll
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.DataAccessLayer\obj\Debug\JobPortalSystem.DataAccessLayer.pdb

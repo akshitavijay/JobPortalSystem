@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.Entities\bin\Debug\JobPortalSystem.Entities.dll
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.Entities\bin\Debug\JobPortalSystem.Entities.pdb
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.Entities\obj\Debug\JobPortalSystem.Entities.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.Entities\obj\Debug\JobPortalSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.Entities\obj\Debug\JobPortalSystem.Entities.dll
+C:\Users\LENOVO\Documents\Assignments\JobPortalSystem\JobPortalSystem.Entities\obj\Debug\JobPortalSystem.Entities.pdb
